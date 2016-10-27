@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 This is my first file. This is second modification.
-=======
-This is my first file. This is modification.
->>>>>>> 2482cdc5deec5bf7061e03e5f480b24b669283b7
